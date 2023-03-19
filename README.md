@@ -15,7 +15,7 @@ macOS type "brew install python"
 
 COLOR: sudo pip3 install colorama 
 
-TO GENERATE CCs
+### TO GENERATE CCs
 
 Install python then navigate to where u downloaded this script
 run the CC-Generator by typing "sudo python3 card.py" no quotes
