@@ -4,11 +4,11 @@
 
 MUST HAVE PYTHON INSTALLED FOR THIS TO WORK
 
-INSTALL THE LATEST VERSION FROM HERE
+GRAB THE LATEST VERSION HERE
 
 https://www.python.org/downloads/
 
-### TO GENERATE CCs
+### INSTALLATION
 
 git clone https:// github.com/ sudo-self/ Python-CC-Generator.git
 
