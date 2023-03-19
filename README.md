@@ -30,3 +30,4 @@ IG @JR85ER | ohAndroid@icloud.com
 <img width="525" alt="CC-Generator" src="https://user-images.githubusercontent.com/119916323/226211527-12cc41be-f0c1-40dc-a816-3c2d9199c72d.png">
 
  
+INCLUDED TEMPLATE PDF TO BUILD ON OR CREATE YOUR OWN
