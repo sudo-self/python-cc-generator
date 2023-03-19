@@ -30,5 +30,4 @@ CARD NUMBER | MONTH | YEAR | CVV
 <img width="525" alt="CC-Generator" src="https://user-images.githubusercontent.com/119916323/226211527-12cc41be-f0c1-40dc-a816-3c2d9199c72d.png">
 
  
-
-TEMPLATE PDF IN REPO FIND ME ON IG @JR85ER
+BUILD TEMPLATE .PDF IN REPO  
