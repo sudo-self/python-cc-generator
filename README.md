@@ -1,5 +1,6 @@
-# CC MAKER..A Basic Python Script by JR
-Basic Python Tool To Generate CCs
+# CC MAKER
+
+A Basic Python Script by JR to Generate CCs
 
 MUST INSTALL PYTHON FOR THIS TO WORK
 
