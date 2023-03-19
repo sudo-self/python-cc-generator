@@ -14,7 +14,7 @@ git clone https:// github.com/ sudo-self/ Python-CC-Generator.git
 
 cd Python-CC-Generator
 
-###EXECUTION
+### EXECUTION
 
 python3 card.py
 
@@ -22,7 +22,7 @@ select how many you wish to generate typing 1-9
 
 press enter to generate the CC
 
-###EXAMPLE
+### EXAMPLE
 
 CARD NUMBER | MONTH | YEAR | CVV
 
