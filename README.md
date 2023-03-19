@@ -1,4 +1,4 @@
-# CC MAKER
+# CC Generator by JR
 
 ## A BASIC PYTHON SCRIPT TO GENERATE CCs BY JR
 
