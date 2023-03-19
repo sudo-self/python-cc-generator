@@ -16,7 +16,11 @@ cd Pytohn-CC-Generator
 
 python3 card.py
 
-EXAMPLE:  CARD NUMBER | MONTH | YEAR | CVV
+select how many by typing a number 1 -9 and press enter
+
+####FORMAT
+
+CARD NUMBER | MONTH | YEAR | CVV
 
           5221580123067467|04|2026|066
 
