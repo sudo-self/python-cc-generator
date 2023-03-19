@@ -8,19 +8,13 @@ YOU CAN GRAB THE LATEST VERSION HERE
 
 https://www.python.org/downloads/
 
-WORKS ON WINDOWS, LINUX, AND macOS
-
-Power shell: python -V
-
-Homebrew: brew install python
-
-Color: sudo pip3 install colorama 
-
 ### TO GENERATE CCs
 
-open terminal from same directory as script
+git clone https://github.com/sudo-self/Python-CC-Generator.git
 
-type: python3 card.py
+cd Pytohn-CC-Generator
+
+python3 card.py
 
 EXAMPLE:  CARD NUMBER | MONTH | YEAR | CVV
 
