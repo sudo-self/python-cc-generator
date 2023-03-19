@@ -12,7 +12,7 @@ https://www.python.org/downloads/
 
 git clone https:// github.com/ sudo-self/ Python-CC-Generator.git
 
-cd Pytohn-CC-Generator
+cd Python-CC-Generator
 
 python3 card.py
 
