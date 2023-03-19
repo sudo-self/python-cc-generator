@@ -16,7 +16,7 @@ cd Python-CC-Generator
 
 python3 card.py
 
-select how many by typing a number 1 - 9
+select how many you wish to generate typing 1-9
 
 press enter to generate the CC
 
