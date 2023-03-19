@@ -4,9 +4,6 @@
 
 This script implements the Luhn algorithm (also called modulo 10 or mod 10)
 
-The Luhn algorithm starts by the end of the number, from the last right digit to the first left digit. Multiplying by 2 all digits of even rank. If the double of a digit is equal or superior to 10, replace it by the sum of its digits.
-
-
 MUST HAVE PYTHON INSTALLED FOR THIS TO WORK
 
 GRAB THE LATEST VERSION HERE
