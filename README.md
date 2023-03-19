@@ -16,9 +16,9 @@ cd Pytohn-CC-Generator
 
 python3 card.py
 
-select how many by typing a number 1 -9 and press enter
+select how many by typing a number 1 - 9
 
-####FORMAT
+press enter to generate the CC
 
 CARD NUMBER | MONTH | YEAR | CVV
 
