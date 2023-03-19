@@ -2,15 +2,15 @@
 
 ## A BASIC PYTHON SCRIPT TO GENERATE CCs BY JR
 
-MUST INSTALL PYTHON FOR THIS TO WORK
+MUST HAVE PYTHON INSTALLED FOR THIS TO WORK
 
-YOU CAN GRAB THE LATEST VERSION HERE
+INSTALL THE LATEST VERSION FROM HERE
 
 https://www.python.org/downloads/
 
 ### TO GENERATE CCs
 
-git clone https://github.com/sudo-self/Python-CC-Generator.git
+git clone https:// github.com/ sudo-self/ Python-CC-Generator.git
 
 cd Pytohn-CC-Generator
 
