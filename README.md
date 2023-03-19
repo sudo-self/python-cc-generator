@@ -1,7 +1,4 @@
-I am Not Responsible for Abuse   
-
-
-# CC MAKER | PYTHON 
+# CC MAKER | PYTHON | BY JR
 Basic Python Tool To Generate CCs
 
 MUST INSTALL PYTHON FOR THIS TO WORK
@@ -31,14 +28,9 @@ EXAMPLE:  CARD NUMBER | MONTH|YEAR| CVV
 
           5221580123067467|04|2026|066
 
-FOR EDUCATIONAL PURPOSES
-Press 1 for Amazon PrimecCC
-      2 for HBO MAX CC
-      3 for Netflix and Chill CC
-      4 for Checker
-      0 for Exit
-    000 for I am not Responsible for your actions
-     -h for HELP 
+FOR EDUCATIONAL PURPOSES I AM NOT RESPONSIBLE IF YOU ABUSE THIS TOOL
+
+USAGE EXAMPLE
 
 IG @JR85ER | ohAndroid@icloud.com
 <img width="525" alt="CC-Generator" src="https://user-images.githubusercontent.com/119916323/226211527-12cc41be-f0c1-40dc-a816-3c2d9199c72d.png">
