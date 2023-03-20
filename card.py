@@ -33,7 +33,7 @@ CHOOSE ONE OF THE FOLLOWING OPTIONS
 [3] Netflix and Chill CC
 [4] CC-checker(not ready yet)
 [0] Fuck This im Leaving
-[000] === I am not Responsible for your stupidity
+[000] I am not Responsible for your stupidity
 
 THIS TOOL WAS MADE FOR EDUCATIONAL PURPOSES ONLY
 
