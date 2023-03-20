@@ -14,20 +14,29 @@ try:
 
 	def menu():
 
-		print(f"""{y}	
-
+		print(f"""{b}
+   ____________   ______                           __
+  / ____/ ____/  / ____/__  ____  ___  _________ _/ /_____  _____
+ / /   / /      / / __/ _ \/ __ \/ _ \/ ___/ __ `/ __/ __ \/ ___/
+/ /___/ /___   / /_/ /  __/ / / /  __/ /  / /_/ / /_/ /_/ / /
+\____/\____/   \____/\___/_/ /_/\___/_/   \__,_/\__/\____/_/
+Created by: RoPaDoPe
 |-------------------------------|
-~~~~~[+]{b}By: Jesse the Wizzard{y} [+]~~~~~~
-Install Python then navigate to where u downloaded this script
-to run the CC-Generator just type "python3 card.py" no quotes
+~~~~~[+]{b}Are YoU a Wizzard Hairy?{y} [+]~~~~~~
 
-[1] ===== Amazon PrimecCC
-[2] ===== HBO MAX CC
-[3] ===== Netflix and Chill CC
-[4] ===== CC-checker(Coming Soon)
-[0] ===== Exit
-[000] === I am not Responsible for your actions
--h for HELP must have python installed
+CHOOSE ONE OF THE FOLLOWING OPTIONS
+
+!!!!. Zero Fucks GiVen .!!!!!
+
+[1] Amazon Primec CC
+[2] HBO MAX CC
+[3] Netflix and Chill CC
+[4] CC-checker(not ready yet)
+[0] Fuck This im Leaving
+[000] === I am not Responsible for your stupidity
+
+THIS TOOL WAS MADE FOR EDUCATIONAL PURPOSES ONLY
+
 |-------------------------------|
 """)
 
@@ -62,7 +71,7 @@ to run the CC-Generator just type "python3 card.py" no quotes
 		menu()
 		while True:
 
-			print(f'{b}┌──({y}Jesse IG㉿JR85er)-[~/LIVE]')
+			print(f'{b}┌──({y}i got you)-[~/LIVE]')
 			ui = input(f"{r}└─>->>{g} ")
 			if ui == '1':
 				bin = '45101560210'
