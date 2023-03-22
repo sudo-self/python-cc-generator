@@ -26,7 +26,7 @@ Created by: RoPaDoPe
 
 CHOOSE ONE OF THE FOLLOWING OPTIONS
 
-!!!!. Zero Fucks GiVen .!!!!!
+!!!!. Demonstration .!!!!!
 
 [1] Amazon Primec CC
 [2] HBO MAX CC
